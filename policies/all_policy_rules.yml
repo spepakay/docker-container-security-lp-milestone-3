@@ -5,4 +5,3 @@ profile:
   includes:
     - security_rules.yml
     - container_rules.yml
-    - governance_rules.yml
